@@ -1,4 +1,4 @@
-Circuit: * D:\Users\Bill\Documents\UoM\Year5\Sem2\ESD\Workshops\DSO\front_end.asc
+Circuit: * D:\Users\Bill\Documents\UoM\Year5\Sem2\ESD\Workshops\DSO\FrontEnd_spice\front_end.asc
 
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -37,21 +37,20 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Sat Aug 24 17:45:50 2019
-Total elapsed time: 0.683 seconds.
+Date: Thu Aug 29 00:10:25 2019
+Total elapsed time: 0.665 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 10952
-traniter = 6107
-tranpoints = 2240
-accept = 1779
-rejected = 461
+method = trap
+totiter = 4848
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
 matrix size = 43
-fillins = 55
+fillins = 46
 solver = Normal
-Thread vector: 19.1/9.9[5] 7.4/4.0[5] 3.5/2.5[4] 0.5/2.9[1]  2592/500
-Matrix Compiler1: 4.41 KB object code size  2.2/1.5/[0.6]
-Matrix Compiler2: off  [1.4]/1.8/2.3
+Matrix Compiler1:     235 opcodes
+Matrix Compiler2: off  [0.9]/1.3/2.2
 
