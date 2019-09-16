@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QNUJBTTW
+DocumentUniqueId=NKDGNWQK
 
 [Document2]
 DocumentPath=DSO.PcbDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EVMOUNJG
+DocumentUniqueId=COJUMGTX
 
 [Document4]
 DocumentPath=DSO_Top.SchDoc
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JDSNFEKN
+DocumentUniqueId=XKWDDBOO
 
 [Document9]
 DocumentPath=DSO_Clock.SchDoc
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FKMYFTNG
+DocumentUniqueId=DPCMVTOU
 
 [Document10]
 DocumentPath=DSO_Control.SchDoc
