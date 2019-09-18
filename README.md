@@ -4,24 +4,24 @@ DSO design for ESD
 Specs:
 1. Clearance between tracks will be a minimum of 10mil
 
-2. Vias and Through Holes will conform to manufacturer’s specifications
+2. Vias and Through Holes will conform to manufacturerâ€™s specifications
 
 3. There will be four 3mm mounting screws 4mm from each edge at each corner and
 these will be represented on the schematics as Non-BOM components. These holes
 are for pick and place machinery and are standard for large scale manufacture
 
-4.Your student number will be placed on the top right of your PCB and a schematic
+4. Your student number will be placed on the top right of your PCB and a schematic
 symbol will represent the student number decal as a Non-BOM component.
 Your name as it appears on the class list will be placed on the top left of your PCB
 
-5.LEDs: A LED for +5 power good
+5. LEDs: A LED for +5 power good
 	A LED for -5 power good
 	LEDs for USB RX and TX
 	LEDs should be labelled indicating their purpose
 
 6. There will be only 2 designator orientations throughout your PCB design
 
-7. All via’s should be tented on both Top and Bottom layers
+7. All viaâ€™s should be tented on both Top and Bottom layers
 
 8. USB differential lines must be laid out as a differential pair
 
