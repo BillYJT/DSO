@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WPHSXIYV
+DocumentUniqueId=UDYRYAVO
 
 [Document2]
 DocumentPath=DSO.PcbDoc
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NVEKIWPY
+DocumentUniqueId=UESNVKAI
 
 [Document9]
 DocumentPath=DSO_RAM.SchDoc
@@ -205,7 +205,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GWHMALFV
+DocumentUniqueId=WJAIJNTF
 
 [Document11]
 DocumentPath=DSO_Control.SchDoc
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WIDFPOWK
+DocumentUniqueId=MCETXBPB
 
 [Document13]
 DocumentPath=DSO_Power.SchDoc
