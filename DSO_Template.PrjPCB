@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XVWOSDNY
+DocumentUniqueId=WPHSXIYV
 
 [Document2]
 DocumentPath=DSO.PcbDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GUTFKCWS
+DocumentUniqueId=JOQIUOTT
 
 [Document4]
 DocumentPath=DSO_Top.SchDoc
@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RVGLAMLT
 
 [Document5]
+DocumentPath=DSO_Mechanical.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XHXLOYFL
+
+[Document6]
 DocumentPath=DSO_ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTXXQUTU
 
-[Document6]
+[Document7]
 DocumentPath=DSO_Trig.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IHPOBETR
 
-[Document7]
+[Document8]
 DocumentPath=DSO_Counters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,9 +171,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EFAJMGUV
+DocumentUniqueId=NVEKIWPY
 
-[Document8]
+[Document9]
 DocumentPath=DSO_RAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,9 +188,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MFJQANOO
+DocumentUniqueId=HIJSXRIO
 
-[Document9]
+[Document10]
 DocumentPath=DSO_Clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,9 +205,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OANLHUPT
+DocumentUniqueId=GWHMALFV
 
-[Document10]
+[Document11]
 DocumentPath=DSO_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWWVUFJF
 
-[Document11]
+[Document12]
 DocumentPath=DSO_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,9 +239,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YQNGVXRE
+DocumentUniqueId=WIDFPOWK
 
-[Document12]
+[Document13]
 DocumentPath=DSO_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEOROFBT
 
-[Document13]
+[Document14]
 DocumentPath=DSO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,9 +273,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KTIORKUT
 
-[Document14]
+[Document15]
 DocumentPath=DSO.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
