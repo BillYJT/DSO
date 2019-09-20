@@ -1,4 +1,3 @@
-Record=TopLevelDocument|FileName=DSO_Top.SchDoc
 Record=SheetSymbol|SourceDocument=DSO_Top.SchDoc|Designator=U_DSO_ADC|SchDesignator=U_DSO_ADC|FileName=DSO_ADC.SchDoc|SymbolType=Normal|RawFileName=DSO_ADC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=DSO_Top.SchDoc|Designator=U_DSO_Clock|SchDesignator=U_DSO_Clock|FileName=DSO_Clock.SchDoc|SymbolType=Normal|RawFileName=DSO_Clock.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=DSO_Top.SchDoc|Designator=U_DSO_Control|SchDesignator=U_DSO_Control|FileName=DSO_Control.SchDoc|SymbolType=Normal|RawFileName=DSO_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
@@ -10,3 +9,4 @@ Record=SheetSymbol|SourceDocument=DSO_Top.SchDoc|Designator=U_DSO_Power|SchDesig
 Record=SheetSymbol|SourceDocument=DSO_Top.SchDoc|Designator=U_DSO_RAM|SchDesignator=U_DSO_RAM|FileName=DSO_RAM.SchDoc|SymbolType=Normal|RawFileName=DSO_RAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=DSO_Top.SchDoc|Designator=U_DSO_Trig|SchDesignator=U_DSO_Trig|FileName=DSO_Trig.SchDoc|SymbolType=Normal|RawFileName=DSO_Trig.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=DSO_Counters.SchDoc|Designator=U_DSO_CPLD|SchDesignator=U_DSO_CPLD|FileName=DSO_CPLD.SchDoc|SymbolType=Normal|RawFileName=DSO_CPLD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=DSO_Top.SchDoc
