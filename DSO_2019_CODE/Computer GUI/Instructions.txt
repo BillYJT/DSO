@@ -1,0 +1,14 @@
+Setup instructions for the DSO Computer GUI
+
+1.
+Download and install processing 2.2.1 from:
+https://processing.org/download/
+
+2.
+Copy the controlP5 folder to documents/processing/libraries
+
+3.
+Open the DSO_Test_GUI_2014.pde inside the DSO_Test_GUI_2014 folder
+
+4.
+click run in processing to start the GUI
