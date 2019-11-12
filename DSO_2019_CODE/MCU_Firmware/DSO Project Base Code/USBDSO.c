@@ -259,26 +259,26 @@ while(1){
 				sample_rate = '1';
 				PLLx8;			
 			}
-			if(received == '2')
+			if(received == '3')
 			{
-				//set PLL to 50ns sample time
-				sample_rate = '2';
+				//set PLL to 50ns sample time (20Mhz)
+				sample_rate = '3';
 				CLOCK_DIVIDER(0);
 				PLLx4;
 			}
-			if(received == '3')
+			if(received == '4')
 			{
-				//set PLL to 100ns sample time
-				sample_rate = '3';
+				//set PLL to 100ns sample time (10Mhz)
+				sample_rate = '4';
 				CLOCK_DIVIDER(0);
 				PLLx2;
 			}
-			if(received == '4')
+			if(received == '2')
 			{
-				//set PLL to 1us sample time
-				PLLx2;
-				CLOCK_DIVIDER(10);
-				sample_rate = '4';
+				//set PLL to 30Mhz sampling frequency
+				PLLx6;
+				CLOCK_DIVIDER(0);
+				sample_rate = '2';
 			}
 			if(received == '5')
 			{
