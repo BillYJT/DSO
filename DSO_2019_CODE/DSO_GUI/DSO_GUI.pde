@@ -545,7 +545,7 @@ void draw()
       //char TriggerVal8Bit = (char)(((Trigger_Value+5.0)/10.0)*255.0);
       char trig15 = (char)(1.5/5.0 * 255); //-5v input
       char trig35 = (char)(3.5/5.0 * 255); //+5v input
-      float dacVoltage = ((((-1.0*Trigger_Value)+5.0)/10.0) * 2.0 + 1.5);
+      float dacVoltage = ((((1.0*Trigger_Value)+5.0)/10.0) * 2.0 + 1.5);
       char TriggerVal8Bit = (char)(dacVoltage/5.0 * 255);
       USBDSOPort.write(TriggerVal8Bit);
       println("Trigger threshold set to "+Trigger_Value+" DACvoltage="+(float)dacVoltage+" ("+(int)TriggerVal8Bit+")");
@@ -766,7 +766,7 @@ void draw()
       
     }
     
-    fft();
+    //fft();
     
         
     stroke(line_red,line_green,line_blue);
